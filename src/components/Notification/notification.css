@@ -1,0 +1,22 @@
+.notification__wrapper {
+  display: flex;
+  background-color: #ffffff;
+  width: fit-content;
+  padding: 5px 15px;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  cursor: pointer;
+}
+
+.notification__text {
+  margin-right: 25px;
+}
+
+.notification__btn {
+  background-color: #fff;
+  padding: 0;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
