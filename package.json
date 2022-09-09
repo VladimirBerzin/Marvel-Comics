@@ -1,6 +1,7 @@
 {
   "name": "marvel-js-practice",
   "version": "1.0.0",
+  "homepage": "https://vladimirberzin.github.io/Marvel-Comics/",
   "scripts": {
     "start": "parcel public/index.html --open",
     "build": "parcel build public/index.html"
